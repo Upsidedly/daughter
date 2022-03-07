@@ -8,5 +8,7 @@
   },
   "keywords": ["daughter", "upsided"],
   "author": "upsided",
-  "license": "ISC"
+  "license": "The Unlicense",
+  "readme": "https://github.com/Upsidedly/daughter#readme",
+  "repository": "https://github.com/Upsidedly/daughter"
 }
